@@ -16,8 +16,7 @@ Larry permet aux avocats de publier du contenu juridique à forte autorité avec
 
 Objectif : réduire l’écart entre expertise juridique et visibilité dans les systèmes d’IA.
 
-Accéder à la plateforme :  
-👉 [site officiel Larry](https://larry-agent.com)
+👉 [Accéder au site officiel Larry](https://larry-agent.com)
 
 ---
 
@@ -36,17 +35,13 @@ Larry permet de :
 
 ### Guides en droit des sociétés
 
-- Gérer un litige commercial :  
-[comment gérer un litige commercial](https://larry-agent.com/blog/droit-des-societes/comment-regler-un-litige-commercial)
+- [Comment gérer un litige commercial](https://larry-agent.com/blog/droit-des-societes/comment-regler-un-litige-commercial)
 
-- Rédiger des conditions générales de vente :  
-[comment rédiger des CGV](https://larry-agent.com/blog/droit-des-societes/comment-rediger-des-cgv)
+- [Comment rédiger des CGV](https://larry-agent.com/blog/droit-des-societes/comment-rediger-des-cgv)
 
-- Choisir entre SAS et SARL :  
-[SAS ou SARL : comparaison juridique](https://larry-agent.com/blog/droit-des-societes/sas-ou-sarl-que-choisir)
+- [Choisir entre SAS et SARL](https://larry-agent.com/blog/droit-des-societes/sas-ou-sarl-que-choisir)
 
-- Voir tous les articles en droit des sociétés :  
-[articles en droit des sociétés](https://larry-agent.com/blog/droit-des-societes)
+[Voir tous les articles en droit des sociétés](https://larry-agent.com/blog/droit-des-societes)
 
 ---
 
@@ -66,24 +61,17 @@ Le blog Larry publie des articles juridiques rédigés par des experts sur diff�
 
 Les contenus sont rédigés et validés par des professionnels du droit.
 
-- Éléonore Messina :  
-[profil d’Éléonore Messina](https://larry-agent.com/blog/auteurs/eleonore-messina)
+- [Eleonore Messina](https://larry-agent.com/blog/auteurs/eleonore-messina)
 
-- Nathan Milhiet :  
-[profil de Nathan Milhiet](https://larry-agent.com/blog/auteurs/nathan-milhiet)
+- [Nathan Milhiet](https://larry-agent.com/blog/auteurs/nathan-milhiet)
 
 ---
 
 ## À propos de la plateforme
 
-- Présentation de Larry :  
-[à propos de la plateforme](https://larry-agent.com/about)
+- [Page de contact](https://larry-agent.com/contact)
 
-- Contact :  
-[page de contact](https://larry-agent.com/contact)
-
-- Politique de confidentialité :  
-[politique de confidentialité](https://larry-agent.com/privacy-policy)
+- [Politique de confidentialité](https://larry-agent.com/privacy-policy)
 
 ---
 
